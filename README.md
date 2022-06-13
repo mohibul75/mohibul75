@@ -26,13 +26,14 @@ Here are some ideas to get you started:
 </div>
 <img src="https://komarev.com/ghpvc/?username=purbo75&style=flat-square&color=blue" alt=""/>
 <h1>
-  hey there, I'm Mohibul Alam
+  hey there, 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
+  I'm Mohibul Alam
 </h1>
  </div>
  
  <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="100"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="300"/>
 </div>
 
 ---
