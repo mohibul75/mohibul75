@@ -1,7 +1,7 @@
 
 
 <!--
-**purbo75/purbo75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mohibul75/mohibul75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=purbo75&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=mohibul75&style=flat-square&color=blue" alt=""/>
 <h1>
   hey there, 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
@@ -73,6 +73,6 @@ Here are some ideas to get you started:
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=purbo75&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohibul75&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purbo75&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohibul75&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
